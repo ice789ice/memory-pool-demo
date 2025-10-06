@@ -1,3 +1,0 @@
-/home/ice/opengl_demo/build/CMakeFiles/memory_pool_demo.dir
-/home/ice/opengl_demo/build/CMakeFiles/edit_cache.dir
-/home/ice/opengl_demo/build/CMakeFiles/rebuild_cache.dir
