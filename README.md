@@ -38,11 +38,11 @@ memory-pool-demo/
 ```
 
 ## 构建与运行
-mkdir build
-cd build
-cmake ..
-make
-./memory_pool_demo
+- mkdir build
+- cd build
+- cmake ..
+- make
+- ./memory_pool_demo
 
 ## 注意事项
 - build/ 目录已在 .gitignore 中忽略，不会上传到 GitHub
