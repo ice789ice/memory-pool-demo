@@ -45,7 +45,6 @@ memory-pool-demo/
 - ./memory_pool_demo
 
 ## 注意事项
-- build/ 目录已在 .gitignore 中忽略，不会上传到 GitHub
 - 本项目仅用于学习和演示，不建议直接用于生产环境
 - 适用于 Linux 平台，使用 GNU C++ 编译器
 
